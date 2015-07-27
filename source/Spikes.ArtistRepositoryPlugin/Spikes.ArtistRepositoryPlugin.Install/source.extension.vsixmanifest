@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+  <Metadata>
+    <Identity Id="Spikes.ArtistRepositoryPlugin.Install..146f07ba-0e8c-4eac-a0f9-f1278d81c79f" Version="1.0" Language="en-US" Publisher="Spikes" />
+    <DisplayName>Artist Repository Browser</DisplayName>
+    <Description xml:space="preserve">Artist Repository Browser for Visual Studio</Description>
+    <Icon>Artist.PNG</Icon>
+    <PreviewImage>Artist.PNG</PreviewImage>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="[12.0]" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="Project" d:ProjectName="Spikes.ArtistRepositoryPlugin" Path="|Spikes.ArtistRepositoryPlugin;PkgdefProjectOutputGroup|" />
+  </Assets>
+</PackageManifest>

@@ -1,0 +1,13 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:spikesArtistRepositoryPlugin="clr-namespace:Spikes.Spikes_ArtistRepositoryPlugin;assembly=Spikes.ArtistRepositoryPlugin"
+        x:Class="WpfMockup.MainWindow"
+        Title="MainWindow" Height="350" Width="525"
+        Icon="Resources/ArtistShort.png">
+    <Grid>
+
+        <spikesArtistRepositoryPlugin:MyControl Margin="0,0,0,0"/>
+
+    </Grid>
+</Window>
