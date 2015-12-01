@@ -1,0 +1,8 @@
+C:\Repositories\ARTIST-VS-RepositoryBrowser\source\Spikes.ArtistRepositoryPlugin\Spikes.ArtistRepositoryPlugin\obj\Debug\Spikes.ArtistRepositoryPlugin.csprojResolveAssemblyReference.cache
+C:\Repositories\ARTIST-VS-RepositoryBrowser\source\Spikes.ArtistRepositoryPlugin\Spikes.ArtistRepositoryPlugin\obj\Debug\Spikes.ArtistRepositoryPlugin.csproj.ResolveComReference.cache
+C:\Repositories\ARTIST-VS-RepositoryBrowser\source\Spikes.ArtistRepositoryPlugin\Spikes.ArtistRepositoryPlugin\obj\Debug\MyControl.baml
+C:\Repositories\ARTIST-VS-RepositoryBrowser\source\Spikes.ArtistRepositoryPlugin\Spikes.ArtistRepositoryPlugin\obj\Debug\ArtefactPropertyDialog.baml
+C:\Repositories\ARTIST-VS-RepositoryBrowser\source\Spikes.ArtistRepositoryPlugin\Spikes.ArtistRepositoryPlugin\obj\Debug\MyControl.g.cs
+C:\Repositories\ARTIST-VS-RepositoryBrowser\source\Spikes.ArtistRepositoryPlugin\Spikes.ArtistRepositoryPlugin\obj\Debug\ArtefactPropertyDialog.g.cs
+C:\Repositories\ARTIST-VS-RepositoryBrowser\source\Spikes.ArtistRepositoryPlugin\Spikes.ArtistRepositoryPlugin\obj\Debug\Spikes.ArtistRepositoryPlugin_MarkupCompile.cache
+C:\Repositories\ARTIST-VS-RepositoryBrowser\source\Spikes.ArtistRepositoryPlugin\Spikes.ArtistRepositoryPlugin\obj\Debug\Spikes.ArtistRepositoryPlugin.g.resources

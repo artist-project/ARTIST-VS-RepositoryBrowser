@@ -1,0 +1,3 @@
+C:\Repositories\ARTIST-VS-RepositoryBrowser\source\Spikes.ArtistRepositoryPlugin\WpfMockup\obj\Debug\WpfMockup.csprojResolveAssemblyReference.cache
+C:\Repositories\ARTIST-VS-RepositoryBrowser\source\Spikes.ArtistRepositoryPlugin\WpfMockup\obj\Debug\App.g.cs
+C:\Repositories\ARTIST-VS-RepositoryBrowser\source\Spikes.ArtistRepositoryPlugin\WpfMockup\obj\Debug\WpfMockup_MarkupCompile.cache

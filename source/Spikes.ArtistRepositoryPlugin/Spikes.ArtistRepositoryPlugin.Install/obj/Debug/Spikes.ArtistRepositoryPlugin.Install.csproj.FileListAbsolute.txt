@@ -1,0 +1,1 @@
+C:\Repositories\ARTIST-VS-RepositoryBrowser\source\Spikes.ArtistRepositoryPlugin\Spikes.ArtistRepositoryPlugin.Install\obj\Debug\Spikes.ArtistRepositoryPlugin.Install.csprojResolveAssemblyReference.cache
